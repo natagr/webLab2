@@ -1,0 +1,40 @@
+body {
+    /*колір фону*/
+    background-color: #a9a9a9;
+}
+
+/*колір тексту посилань*/
+a {
+    color: #90ee90
+}
+
+span{
+    /*червоний колір*/
+    color: #ff0000;
+}
+
+.p_darkGray_italic{
+    /*колір тексту*/
+    color: #808080;
+    /*курсив*/
+    font-style: italic;
+}
+
+.p_green_bold{
+    /*колір тексту*/
+    color: #90ee90;
+    /*жирний шрифт*/
+    font-weight: bold;
+}
+
+/*вирівнювання по лівому краю*/
+.img_left{
+    float:left;
+}
+
+/*вирівнювання по правому краю*/
+.img_right{
+    float:right;
+    /*ширина картинки*/
+    width: 40%;
+}
